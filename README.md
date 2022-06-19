@@ -1,3 +1,3 @@
 # ChatBot
 
-Chat Bot project for year 3
+A ChatBot group project for final year of University.
