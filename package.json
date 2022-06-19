@@ -1,0 +1,29 @@
+{
+  "name": "manualchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Costi Lacatusu",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "deasync": "^0.1.24",
+    "express": "^4.17.3",
+    "geolocation": "^0.2.0",
+    "google-search-results-nodejs": "^2.1.0",
+    "http": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "nan": "^2.15.0",
+    "no-gyp-xml-stream": "^1.0.3",
+    "node-fetch": "^3.2.3",
+    "node-navigator": "^1.0.1",
+    "node-nlp": "^4.22.1",
+    "say": "^0.16.0",
+    "socket.io": "^4.4.1",
+    "sql-client": "^3.0.0",
+    "text-to-speech-js": "^1.1.10"
+  }
+}
